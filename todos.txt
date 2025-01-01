@@ -2,4 +2,5 @@ Do the laundry
 Return the books to the library
 Visit the museum
 print the pictures
-Add  a brand new todo
+Get the photographs
+Book Movie tickets
