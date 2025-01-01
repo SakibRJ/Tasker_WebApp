@@ -9,9 +9,9 @@ def add_todo():
     functions.write_todo(filepath="todos.txt", listname_argu=todos)
 
 
-st.title("My Todo App")
-st.subheader("This is my todo app.")
-st.write("This app is to increase your productivity.")
+st.title("Tasker")
+st.subheader("Enter your task and press 'Enter'")
+st.write("This app is to increase your productivity; simply check the box to complete your Task.")
 
 
 for index, todo in enumerate(todos):
