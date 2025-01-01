@@ -2,9 +2,4 @@ Do the laundry
 Return the books to the library
 Visit the museum
 print the pictures
-fix the floor
-new lineadd it now
-add it nowdays
-add it nowdays 
-add it nowdays  
-add it nowdays   
+Add  a brand new todo
